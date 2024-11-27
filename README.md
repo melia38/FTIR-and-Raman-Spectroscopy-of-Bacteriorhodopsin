@@ -1,2 +1,4 @@
-# FTIR-and-Raman-Spectroscopy-of-Bacteriorhodopsin
-Codes for FTIR and Raman spectroscopy analysis of bacteriorhodopsin experiments.
+#FTIR and Raman Spectroscopy of Bacteriorhodopsin
+
+This repository contains data and analysis scripts for FTIR and Raman spectroscopy experiments on bacteriorhodopsin. 
+
